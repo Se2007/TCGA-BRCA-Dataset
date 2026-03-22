@@ -1,0 +1,11 @@
+manifest-25vRPwyh8987165612391086998/
+TCGA-AO-A0J8/
+
+__pycache__/
+*.tcia
+*.csv
+*.tsv
+*.json
+*.svs
+*..maf.gz
+*.dcm
