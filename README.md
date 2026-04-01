@@ -1,6 +1,7 @@
 # TCGA-BRCA: Multi-Modal Fusion Dataset & Preprocessing Pipeline
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Kaggle](https://www.kaggle.com/datasets/sepehreslamimoghadam/breast-cancer-vision-and-genomic-fusion-ml-ready)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Kaggle](https://www.kaggle.com/datasets/sepehreslamimoghadam/breast-cancer-vision-and-genomic-fusion-ml-ready)
 
 This repository contains the source code and documentation for creating a curated, machine-learning-ready version of the **TCGA-BRCA** dataset. The goal of this project is to integrate three distinct modalities—**Radiology (MRI)**, **Pathology (SVS Patches)**, and **Multi-Omics (RNA/CNV)**—into a single, patient-aligned framework for multi-modal fusion research.
 
